@@ -1,0 +1,21 @@
+{
+  "name": "magicerc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ledgerhq/hw-transport-node-hid": "^6.6.0",
+    "@ledgerhq/web3-subprovider": "^5.36.0-deprecated",
+    "@openzeppelin/contracts": "^4.3.1",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "dotenv": "^10.0.0",
+    "openzeppelin-solidity": "^4.3.1",
+    "truffle": "^5.4.7",
+    "web3-provider-engine": "^16.0.3"
+  }
+}
